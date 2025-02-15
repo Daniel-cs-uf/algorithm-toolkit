@@ -1,0 +1,9 @@
+Daniel Miller
+2/14/2025
+
+This code uses a greedy algorithim to solve the Tim Hortons problem that was described in the
+assignment. The code follows the psudocode I wrote in my writeup and is fairly simple to follow.
+
+To run I used the Run/Debug feature in vs code, you will need to select a python interpreter 
+to do this. Another method if this gives you trouble is in the integrated terminal type 
+python timHortons.py
