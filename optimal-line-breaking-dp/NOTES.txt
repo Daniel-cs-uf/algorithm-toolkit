@@ -1,0 +1,6 @@
+Hello This is a quick guide to my Optimal Line Breaking for Paragraph Formatting Using Dynamic Programing program for assignment 5
+
+To run I used the Run/Debug feature in vs code, you will need to select a python interpreter to do this
+Another method if this gives you trouble is in the integrated terminal type python Assignment5.py
+
+this program takes in input from the input.txt file and the output should be in the terminal
