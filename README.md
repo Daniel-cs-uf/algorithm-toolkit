@@ -16,7 +16,7 @@ correctness argument, and complexity.
 
 ## Highlights
 
-- **Stable matching** — implements the Gale–Shapley proposal algorithm, reading
+- **Stable matching** — implements the Shapley proposal algorithm, reading
   preference lists from a file and producing a stable assignment in `O(n²)`.
 - **Greedy highway coverage** — a single left-to-right sweep that provably uses
   the minimum number of locations to cover every off-ramp within range.
@@ -27,15 +27,14 @@ correctness argument, and complexity.
 - **Fast exponentiation** — exponentiation by squaring in `O(log n)`
   multiplications, with timing and peak-memory instrumentation.
 
-Each subfolder contains the source code and (where applicable) a written
-analysis (`writeup.pdf` / `writeup.docx`) and run notes (`NOTES.txt`).
+Each subfolder contains the source code.
 
 ## Running
 
 The Python programs run with any Python 3 interpreter, e.g.:
 
 ```bash
-python stable-matching/galeShapley.py
+python stable-matching/matching.py
 ```
 
 The C++ benchmark compiles with any modern C++ compiler:
