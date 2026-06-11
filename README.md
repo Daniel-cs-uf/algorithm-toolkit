@@ -8,7 +8,7 @@ correctness argument, and complexity.
 
 | Folder | Problem | Technique | Language |
 |--------|---------|-----------|----------|
-| [`stable-matching`](stable-matching) | Stable matching between two equal-size sets of preferences | Gale–Shapley algorithm | Python |
+| [`stable-matching`](stable-matching) | Stable matching between two equal-size sets of preferences | Shapley algorithm | Python |
 | [`highway-coverage-greedy`](highway-coverage-greedy) | Cover a highway of off-ramps with the fewest service locations | Greedy interval covering | Python |
 | [`crate-stacking-recursion`](crate-stacking-recursion) | Move a stack of crates between racks under ordering constraints | Recursion (Tower of Hanoi) | Python |
 | [`optimal-line-breaking-dp`](optimal-line-breaking-dp) | Break a paragraph into lines minimizing total "slack" cost | Dynamic programming | Python |
